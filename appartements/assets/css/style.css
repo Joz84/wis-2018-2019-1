@@ -2,8 +2,8 @@ body {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	color: white;
-	background-color: grey;
+	color: 000000;
+	background: linear-gradient(rgba(227, 227, 209, 1), rgba(75, 87, 87, 1));
 	width: 100%;
 }
 
