@@ -1,0 +1,52 @@
+.footer {
+  position: relative;
+  background: #F4F4F4;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 115px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+}
+.footer-links {
+  align-items: center;
+}
+.footer-links a {
+  color: black;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 5px;
+}
+
+.title {
+  color: black;
+  opacity: 0.8;
+  align-items: center;
+  margin-left: 23px;
+}
+
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-heart {
+  color: #D23333;
+}
+
+.fBody {
+list-style:none;
+}
+li {
+margin-bottom:0px;/* à adapter */
+margin-left:-16px;
+}
+
+.fContact a {
+  text-decoration: none;
+  color: black;
+  opacity: 0.25;
+}
+
+.fContact {
+  list-style: none;
+}
