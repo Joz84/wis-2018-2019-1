@@ -78,6 +78,23 @@ input[type="submit"] {
 	transition: all linear 0.2s;
 }
 
+.pub{
+	position: relative;  
+	color: black; 
+	font-size: x-large; 
+	font-weight: bold;
+	text-align: center;
+
 input[type="submit"]:hover {
 	background-color: white;
+}
+
+.img_logement {
+	z-index: 3px;
+	position: relative;
+}
+.price {
+
+	font-size: xx-large;
+	font-family: Arial;
 }
